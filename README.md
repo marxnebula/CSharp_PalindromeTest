@@ -3,4 +3,4 @@ A palindrome is a word, phrase, number, or other sequence of characters which re
 
 Designed in Microsoft Visual Studio 2013 using C#.
 
-To view code, please go to 
+To view code, please go to the folder PalindromTest and click on Program.cs
