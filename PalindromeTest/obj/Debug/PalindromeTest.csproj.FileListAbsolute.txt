@@ -1,0 +1,6 @@
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\bin\Debug\PalindromeTest.exe.config
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\bin\Debug\PalindromeTest.exe
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\bin\Debug\PalindromeTest.pdb
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\obj\Debug\PalindromeTest.csprojResolveAssemblyReference.cache
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\obj\Debug\PalindromeTest.exe
+c:\users\jordan\documents\visual studio 2013\Projects\PalindromeTest\PalindromeTest\obj\Debug\PalindromeTest.pdb
